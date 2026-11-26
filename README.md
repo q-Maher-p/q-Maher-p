@@ -16,13 +16,4 @@ Learning Cybersecurity Malware Analysis & Reverse Engineering 🔍<br>Practicing
 ![](https://streak-stats.demolab.com/?user=q-Maher-p&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=q-Maher-p&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=q-Maher-p&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=q-Maher-p&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
