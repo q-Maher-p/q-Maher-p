@@ -8,7 +8,7 @@
 <div align="center">
 
 <img src="./assets/terminal-kali.svg" width="100%" alt="Kali terminal">
-<img src="./assets/shield.svg" width="300" alt="Shield">
+<img src="./assets/shield.svg" width="150" alt="Shield">
 
 </div>
 
@@ -22,5 +22,3 @@ Learning Cybersecurity Malware Analysis & Reverse Engineering 🔍<br>Practicing
 ![](https://github-readme-stats.shion.dev/api?username=q-Maher-p&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=q-Maher-p&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=q-Maher-p&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
