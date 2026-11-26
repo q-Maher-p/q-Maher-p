@@ -5,6 +5,13 @@
 
 </div>
 
+<div align="center">
+
+<img src="./assets/terminal-kali.svg" width="100%" alt="Kali terminal">
+<img src="./assets/shield.svg" width="300" alt="Shield">
+
+</div>
+
 # 💫 About Me:
 Learning Cybersecurity Malware Analysis & Reverse Engineering 🔍<br>Practicing on Labs & Linux 🐧<br>Always curious 💻<br>DFIR 🛡️
 

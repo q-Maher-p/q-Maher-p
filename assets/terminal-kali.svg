@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" width="760" height="470">
+<style>text{font:13px monospace;white-space:pre}.p{fill:#ef4444;font-size:16px}.k{fill:#3b82f6}.i{fill:#fecaca}
+.l{opacity:0;animation:s 10s infinite}@keyframes s{0%{opacity:0}4%,92%{opacity:1}100%{opacity:0}}
+.c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<rect width="760" height="470" rx="16" fill="#12151a"/><rect width="760" height="36" rx="16" fill="#1d2024"/>
+<circle cx="24" cy="18" r="6" fill="#ef4444"/><circle cx="46" cy="18" r="6" fill="#991b1b"/><circle cx="68" cy="18" r="6" fill="#450a0a"/>
+<text class="p" x="24" y="66">┌──(<tspan class="k">root㉿kali</tspan>)-[~]</text>
+<text class="p" x="24" y="86">└─# fastfetch</text>
+<text class="k l" x="24" y="116" style="animation-delay:0.80s">  ..............      </text>
+<text class="k l" x="24" y="131" style="animation-delay:0.88s">            ..,;:ccc,.</text>
+<text class="k l" x="24" y="146" style="animation-delay:0.96s">          ......''';lxO.</text>
+<text class="k l" x="24" y="161" style="animation-delay:1.04s">.....''''..........,:ld;</text>
+<text class="k l" x="24" y="176" style="animation-delay:1.12s">           .';;;:::;,,.x,</text>
+<text class="k l" x="24" y="191" style="animation-delay:1.20s">      ..'''.            0Xxoc:,.  ...</text>
+<text class="k l" x="24" y="206" style="animation-delay:1.28s">  ....                ,ONkc;,;cokOdc',.</text>
+<text class="k l" x="24" y="221" style="animation-delay:1.36s"> .                   OMo           ':ddo.</text>
+<text class="k l" x="24" y="236" style="animation-delay:1.44s">                    dMc               :OO;</text>
+<text class="k l" x="24" y="251" style="animation-delay:1.52s">                    0M.                 .:o.</text>
+<text class="k l" x="24" y="266" style="animation-delay:1.60s">                    ;Wd</text>
+<text class="k l" x="24" y="281" style="animation-delay:1.68s">                     ;XO,</text>
+<text class="k l" x="24" y="296" style="animation-delay:1.76s">                       ,d0Odlc;,..</text>
+<text class="k l" x="24" y="311" style="animation-delay:1.84s">                           ..',;:cdOOd::,.</text>
+<text class="k l" x="24" y="326" style="animation-delay:1.92s">                                    .:d;.':;.</text>
+<text class="k l" x="24" y="341" style="animation-delay:2.00s">                                       'd,  .'</text>
+<text class="k l" x="24" y="356" style="animation-delay:2.08s">                                         ;l   ..</text>
+<text class="k l" x="24" y="371" style="animation-delay:2.16s">                                          .o</text>
+<text class="k l" x="24" y="386" style="animation-delay:2.24s">                                            c</text>
+<text class="k l" x="24" y="401" style="animation-delay:2.32s">                                            .'</text>
+<text class="k l" x="420" y="130" style="animation-delay:1.20s">root@kali</text>
+<text class="i l" x="420" y="150" style="animation-delay:1.45s">---------</text>
+<text class="i l" x="420" y="170" style="animation-delay:1.70s">OS: Kali GNU/Linux Rolling</text>
+<text class="i l" x="420" y="190" style="animation-delay:1.95s">Kernel: Linux 6.12-amd64</text>
+<text class="i l" x="420" y="210" style="animation-delay:2.20s">Uptime: 3 hours, 12 mins</text>
+<text class="i l" x="420" y="230" style="animation-delay:2.45s">Shell: zsh 5.9</text>
+<text class="i l" x="420" y="250" style="animation-delay:2.70s">DE: Xfce 4.20</text>
+<text class="i l" x="420" y="270" style="animation-delay:2.95s">Terminal: qterminal</text>
+<text class="i l" x="420" y="290" style="animation-delay:3.20s">CPU: Intel i7 (8) @ 3.6GHz</text>
+<text class="i l" x="420" y="310" style="animation-delay:3.45s">Memory: 2.1GiB / 15.5GiB</text>
+<text class="p" x="24" y="450">└─# <tspan class="c">█</tspan></text></svg>
