@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="84" viewBox="340 19 80 84"><defs><linearGradient id="tg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f8fb"/><stop offset="1" stop-color="#b3b8c6"/></linearGradient><linearGradient id="hl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><filter id="ds" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="2" stdDeviation="1.6" flood-color="#000" flood-opacity=".45"/></filter><filter id="bl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<ellipse cx="380.0" cy="101" rx="28.0" ry="6" fill="#000" opacity=".45" filter="url(#bl)"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="4.40s" begin="-1.6s" repeatCount="indefinite"/>
+<rect x="348" y="31" width="64" height="64" rx="15" fill="#5b6070"/>
+<rect x="348" y="25" width="64" height="64" rx="15" fill="url(#tg)"/>
+<rect x="350" y="27" width="60" height="32.0" rx="13" fill="url(#hl)" opacity=".7"/>
+<rect x="348.5" y="25.5" width="63" height="63" rx="14.5" fill="none" stroke="#fff" stroke-opacity=".7"/>
+<g transform="translate(360.0 37.0) scale(1.6666666666666667)" filter="url(#ds)"><path d="M23.181 2.974c.568 0 .923.463.792 1.035l-3.659 15.982c-.13.572-.697 1.035-1.265 1.035H.819c-.568 0-.923-.463-.792-1.035L3.686 4.009c.13-.572.697-1.035 1.265-1.035zm-8.375 9.346c.251-.394.227-.905-.09-1.243L9.122 5.125c-.38-.404-1.037-.407-1.466-.003-.429.402-.468 1.056-.088 1.46l4.662 4.96v.11l-7.42 5.374c-.45.327-.533.977-.187 1.453.346.476.991.597 1.44.27l8.229-5.91c.28-.196.438-.365.514-.52zm-2.796 4.399a.928.928 0 00-.934.923c0 .51.418.923.934.923h4.433a.928.928 0 00.934-.923.928.928 0 00-.934-.923z" fill="#991b1b"/></g>
+</g>
+</svg>

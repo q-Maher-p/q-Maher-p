@@ -16,7 +16,42 @@ Learning Cybersecurity Malware Analysis & Reverse Engineering 🔍<br>Practicing
 
 
 # 💻 Tech Stack:
-<img src="./assets/tech-stack.svg" width="75%" alt="Tech Stack">
+<p align="left">
+<a href="https://www.python.org" title="Python"><img src="./assets/tiles/python.svg" width="62" alt="Python"></a>
+<a href="https://isocpp.org" title="C++"><img src="./assets/tiles/cpp.svg" width="62" alt="C++"></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"><img src="./assets/tiles/csharp.svg" width="62" alt="C#"></a>
+<a href="https://openjdk.org" title="Java"><img src="./assets/tiles/java.svg" width="62" alt="Java"></a>
+<a href="https://learn.microsoft.com/powershell/" title="PowerShell"><img src="./assets/tiles/powershell.svg" width="62" alt="PowerShell"></a>
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img src="./assets/tiles/bash.svg" width="62" alt="Bash"></a>
+<a href="https://www.kernel.org" title="Linux"><img src="./assets/tiles/linux.svg" width="62" alt="Linux"></a>
+<a href="https://www.kali.org" title="Kali Linux"><img src="./assets/tiles/kali.svg" width="62" alt="Kali Linux"></a>
+<a href="https://nmap.org" title="Nmap"><img src="./assets/tiles/nmap.svg" width="62" alt="Nmap"></a>
+<a href="https://www.wireshark.org" title="Wireshark"><img src="./assets/tiles/wireshark.svg" width="62" alt="Wireshark"></a>
+</p>
+<p align="left">
+<a href="https://www.openvas.org" title="OpenVAS"><img src="./assets/tiles/openvas.svg" width="62" alt="OpenVAS"></a>
+<a href="https://projectdiscovery.io/nuclei" title="Nuclei"><img src="./assets/tiles/nuclei.svg" width="62" alt="Nuclei"></a>
+<a href="https://github.com/sullo/nikto" title="Nikto"><img src="./assets/tiles/nikto.svg" width="62" alt="Nikto"></a>
+<a href="https://www.zaproxy.org" title="OWASP ZAP"><img src="./assets/tiles/zap.svg" width="62" alt="OWASP ZAP"></a>
+<a href="https://portswigger.net/burp" title="Burp Suite"><img src="./assets/tiles/burp.svg" width="62" alt="Burp Suite"></a>
+<a href="https://www.metasploit.com" title="Metasploit"><img src="./assets/tiles/metasploit.svg" width="62" alt="Metasploit"></a>
+<a href="https://github.com/dnSpy/dnSpy" title="dnSpy"><img src="./assets/tiles/dnspy.svg" width="62" alt="dnSpy"></a>
+<a href="https://github.com/hasherezade/pe-bear" title="PE-bear"><img src="./assets/tiles/pebear.svg" width="62" alt="PE-bear"></a>
+<a href="https://www.malwarebytes.com" title="Malwarebytes"><img src="./assets/tiles/malwarebytes.svg" width="62" alt="Malwarebytes"></a>
+<a href="https://www.virustotal.com" title="VirusTotal"><img src="./assets/tiles/virustotal.svg" width="62" alt="VirusTotal"></a>
+</p>
+<p align="left">
+<a href="https://www.docker.com" title="Docker"><img src="./assets/tiles/docker.svg" width="62" alt="Docker"></a>
+<a href="https://git-scm.com" title="Git"><img src="./assets/tiles/git.svg" width="62" alt="Git"></a>
+<a href="https://github.com" title="GitHub"><img src="./assets/tiles/github.svg" width="62" alt="GitHub"></a>
+<a href="https://www.hackthebox.com" title="Hack The Box"><img src="./assets/tiles/hackthebox.svg" width="62" alt="Hack The Box"></a>
+<a href="https://tryhackme.com" title="TryHackMe"><img src="./assets/tiles/tryhackme.svg" width="62" alt="TryHackMe"></a>
+<a href="https://www.virtualbox.org" title="VirtualBox"><img src="./assets/tiles/virtualbox.svg" width="62" alt="VirtualBox"></a>
+<a href="https://www.vmware.com" title="VMware"><img src="./assets/tiles/vmware.svg" width="62" alt="VMware"></a>
+<a href="https://www.torproject.org" title="Tor"><img src="./assets/tiles/tor.svg" width="62" alt="Tor"></a>
+<a href="https://ubuntu.com" title="Ubuntu"><img src="./assets/tiles/ubuntu.svg" width="62" alt="Ubuntu"></a>
+<a href="https://www.openssl.org" title="OpenSSL"><img src="./assets/tiles/openssl.svg" width="62" alt="OpenSSL"></a>
+</p>
 
 # 📊 GitHub Stats:
 <div align="center">

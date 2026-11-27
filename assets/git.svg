@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="84" viewBox="100 195 80 84"><defs><linearGradient id="tg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7f8fb"/><stop offset="1" stop-color="#b3b8c6"/></linearGradient><linearGradient id="hl" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><filter id="ds" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="2" stdDeviation="1.6" flood-color="#000" flood-opacity=".45"/></filter><filter id="bl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<ellipse cx="140.0" cy="277" rx="28.0" ry="6" fill="#000" opacity=".45" filter="url(#bl)"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3.13s" begin="-0.3s" repeatCount="indefinite"/>
+<rect x="108" y="207" width="64" height="64" rx="15" fill="#5b6070"/>
+<rect x="108" y="201" width="64" height="64" rx="15" fill="url(#tg)"/>
+<rect x="110" y="203" width="60" height="32.0" rx="13" fill="url(#hl)" opacity=".7"/>
+<rect x="108.5" y="201.5" width="63" height="63" rx="14.5" fill="none" stroke="#fff" stroke-opacity=".7"/>
+<g transform="translate(120.0 213.0) scale(1.6666666666666667)" filter="url(#ds)"><path d="M13.09 23.549a1.54 1.54 0 0 1-2.18 0L.451 13.089a1.54 1.54 0 0 1 0-2.179l7.191-7.19 2.733 2.733a1.85 1.85 0 0 0 .964 2.326v6.66a1.849 1.849 0 1 0 1.54 0V8.957l2.508 2.508a1.85 1.85 0 1 0 1.09-1.09l-2.634-2.634a1.85 1.85 0 0 0-2.378-2.377L8.73 2.63 10.91.451a1.54 1.54 0 0 1 2.179 0l10.459 10.46a1.54 1.54 0 0 1 0 2.179z" fill="#991b1b"/></g>
+</g>
+</svg>
