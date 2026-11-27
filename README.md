@@ -12,13 +12,15 @@
 </div>
 
 # 💫 About Me:
-Learning Cybersecurity Malware Analysis & Reverse Engineering 🔍<br>Practicing on Labs & Linux 🐧<br>Always curious 💻<br>DFIR 🛡️
+Learning Cybersecurity Malware Analysis & Reverse Engineering 🔍<br>Practicing on Labs & Linux 🐧<br>Always curious 💻<br>DFIR 🛡️<br>Currently working in a Malware Analysis Lab 🧪
 
 
 # 💻 Tech Stack:
 <img src="./assets/tech-stack.svg" width="75%" alt="Tech Stack">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=q-Maher-p&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=q-Maher-p&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=q-Maher-p&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+<img height="150" src="https://github-readme-stats.shion.dev/api?username=q-Maher-p&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" alt="stats">
+<img height="150" src="https://streak-stats.demolab.com/?user=q-Maher-p&theme=shadow_red&hide_border=false" alt="streak">
+<img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=q-Maher-p&theme=shadow_red&hide_border=false&include_all_commits=false&layout=compact" alt="langs">
+</p>
