@@ -18,7 +18,7 @@ Learning Cybersecurity Malware Analysis & Reverse Engineering 🔍<br>Practicing
 # 💻 Tech Stack:
 <div align="center">
 
-<img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack">
+<img src="./assets/tech-stack.svg" width="65%" alt="Tech Stack">
 
 </div>
 
