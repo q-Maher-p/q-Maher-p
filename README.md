@@ -16,11 +16,7 @@ Learning Cybersecurity Malware Analysis & Reverse Engineering 🔍<br>Practicing
 
 
 # 💻 Tech Stack:
-<div align="center">
-
-<img src="./assets/tech-stack.svg" width="65%" alt="Tech Stack">
-
-</div>
+<img src="./assets/tech-stack.svg" width="75%" alt="Tech Stack">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=q-Maher-p&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
