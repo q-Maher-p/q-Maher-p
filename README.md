@@ -8,7 +8,7 @@
 <div align="center">
 
 <img src="./assets/terminal-kali.svg" width="100%" alt="Kali terminal">
-<img src="./assets/character-eye.svg" width="150" alt="Character">
+<img src="./assets/character-eye-auto.svg" width="150" alt="Character">
 
 </div>
 
